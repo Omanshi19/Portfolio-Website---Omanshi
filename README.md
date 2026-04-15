@@ -15,7 +15,7 @@ This repository contains my **personal portfolio website**, where I showcase:
 Think of it as my **digital brain dump… but aesthetic.**
 
 ---
-
+ 
 ## ✨ Features
 - 🎯 Clean, minimal UI  
 - 📱 Fully responsive design  
