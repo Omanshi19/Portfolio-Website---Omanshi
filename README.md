@@ -1,7 +1,7 @@
 # 🌐 Omanshi’s Portfolio Website  
 > *Built with caffeine, curiosity, and questionable sleep cycles.*
 
----
+--- 
 
 ## 👩‍💻 About Me
 Hey! I'm **Omanshi Kaushal** — a curiosity-driven developer who enjoys turning ideas into interactive experiences.
