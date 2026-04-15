@@ -9,7 +9,7 @@ Hey! I'm **Omanshi Kaushal** — a curiosity-driven developer who enjoys turning
 This repository contains my **personal portfolio website**, where I showcase: 
 - 🚀 Projects    
 - 🧠 Technical skills   
-- 🏆 Achievements & extracurriculars  
+- 🏆 Achievements & extracurriculars   
 - 📬 Ways to reach me  
 
 Think of it as my **digital brain dump… but aesthetic.**
