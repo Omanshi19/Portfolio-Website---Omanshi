@@ -11,7 +11,7 @@ This repository contains my **personal portfolio website**, where I showcase:
 - 🧠 Technical skills      
 - 🏆 Achievements & extracurriculars      
 - 📬 Ways to reach me   
-
+ 
 Think of it as my **digital brain dump… but aesthetic.**
 
 ---
