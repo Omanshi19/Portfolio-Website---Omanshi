@@ -12,7 +12,7 @@ This repository contains my **personal portfolio website**, where I showcase:
 - 🏆 Achievements & extracurriculars      
 - 📬 Ways to reach me   
   
-Think of it as my **digital brain dump… but aesthetic.**
+Think of it as my **digital brain dump… but aesthetic.** 
 
 ---
  
