@@ -3,7 +3,7 @@
 https://portfolio-website-omanshi.vercel.app/
 ---    
    
-## 👩‍💻 About Me 
+## 👩‍💻 About Me  
 Hey! I'm **Omanshi Kaushal** — a curiosity-driven developer who enjoys turning ideas into interactive experiences.
    
 This repository contains my **personal portfolio website**, where I showcase:  
