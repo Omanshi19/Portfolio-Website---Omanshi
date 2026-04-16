@@ -1,4 +1,4 @@
-# 🌐 Omanshi’s Portfolio Website  - https://portfolio-website-omanshi.vercel.app/
+# 🌐 Omanshi’s Portfolio Website  
 > *Built with caffeine, curiosity, and questionable sleep cycles.*  
 
 ---  
