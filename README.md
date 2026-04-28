@@ -1,5 +1,5 @@
 # 🌐 Omanshi’s Portfolio Website  
-> *Built with caffeine, curiosity, and questionable sleep cycles.*  
+> *Built with caffeine, curiosity and questionable sleep cycles.*  
 https://portfolio-website-omanshi.vercel.app/
 ---    
 ##Photos 
