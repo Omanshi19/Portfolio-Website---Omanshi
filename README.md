@@ -50,3 +50,4 @@ Think of it as my **digital brain dump… but aesthetic.**
 
 ---
 
+Developed by - Omanshi Kaushal and uncountable cans of diet coke
