@@ -12,7 +12,7 @@ https://portfolio-website-omanshi.vercel.app/
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
---- 
+---  
 ##Photos 
 <img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/73135060-ab5a-4a56-b799-9550e02778cd" />
 <img width="1440" height="805" alt="image" src="https://github.com/user-attachments/assets/2e3ddada-f0b7-4cf0-a3bf-6014de06046f" />
