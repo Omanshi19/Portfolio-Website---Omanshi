@@ -2,7 +2,7 @@
 > *Built with caffeine, curiosity and questionable sleep cycles.*  
 https://portfolio-website-omanshi.vercel.app/ 
 --- 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
