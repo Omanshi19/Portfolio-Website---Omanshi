@@ -373,6 +373,50 @@ section{padding:7rem 3rem;position:relative;z-index:1}
 .fact-title{font-family:var(--serif);font-size:0.85rem;color:var(--accent);letter-spacing:0.06em;margin-bottom:0.3rem}
 .fact-text{font-size:0.875rem;color:var(--text2);line-height:1.55}
 
+  /* ============================================================
+   GITHUB CONTRIBUTIONS
+   ============================================================ */
+.gh-card{
+  border:1px solid var(--border);border-radius:12px;
+  background:var(--bg2);
+  padding:2rem 2.25rem;
+  margin-top:2.5rem;
+  position:relative;overflow:hidden;
+  transition:all 0.3s;
+}
+.gh-card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:1.5px;
+  background:linear-gradient(90deg,var(--accent),var(--gold),transparent);
+}
+.gh-card:hover{border-color:var(--border2);box-shadow:var(--glow-sm)}
+.gh-card-head{
+  display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:0.75rem;margin-bottom:1.5rem;
+}
+.gh-card-title{
+  font-family:var(--serif);font-size:1.05rem;color:var(--text);
+  display:flex;align-items:center;gap:0.6rem;
+}
+.gh-card-title i{color:var(--accent)}
+.gh-card-user{
+  font-size:0.82rem;color:var(--text3);letter-spacing:0.04em;
+}
+.gh-card-user a{color:var(--accent);text-decoration:none}
+.gh-card-user a:hover{text-decoration:underline}
+.gh-chart-wrap{
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+  padding-bottom:0.25rem;
+}
+.gh-chart-wrap img{
+  display:block;min-width:780px;width:100%;
+  filter:drop-shadow(0 0 12px rgba(249,115,22,0.08));
+}
+@media(max-width:768px){
+  .gh-card{padding:1.5rem 1.25rem}
+  .gh-chart-wrap img{min-width:680px}
+}
+
 /* ============================================================
    RESUME PAGE
    ============================================================ */
