@@ -1437,6 +1437,17 @@ renderTimeline();
 renderAchievements();
 observeAll();
 setTimeout(observeAll, 200);
+
+/* ── GITHUB TOTAL CONTRIBUTIONS ── */
+fetch('https://github-contributions-api.jogruber.de/v4/Omanshi19?y=last')
+  .then(res => res.json())
+  .then(data => {
+    const total = data.total && data.total.lastYear;
+    const el = document.getElementById('ghCount');
+    if (el && total !== undefined) el.textContent = total + ' contributions';
+  })
+  .catch(() => {
+    const el = document.getElementById('ghCount');
+    if (el) el.textContent = '';
+  });
 </script>
-</body>
-</html>
