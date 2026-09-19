@@ -932,7 +932,12 @@ footer{
       </div>
      <p class="hero-sub">
   Software Development Intern at 
-  <a href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; color: inherit; text-decoration: none;">
+  <a href="https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     style="display: inline-flex; align-items: center; gap: 8px; color: inherit; text-decoration: none; transition: all 0.2s ease-in-out;"
+     onmouseover="this.style.transform='translateY(-2px)'; this.querySelector('span').style.textDecoration='underline';" 
+     onmouseout="this.style.transform='translateY(0)'; this.querySelector('span').style.textDecoration='none';">
     <span>Airbus India</span>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
       <polygon points="12 2 2 22 22 22 12 2" />
